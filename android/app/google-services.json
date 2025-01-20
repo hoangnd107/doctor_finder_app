@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "165951998428",
+    "firebase_url": "https://doctorfindernew-dd44b-default-rtdb.firebaseio.com",
+    "project_id": "doctorfindernew-dd44b",
+    "storage_bucket": "doctorfindernew-dd44b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165951998428:android:90e2aabf97d0e513e66719",
+        "android_client_info": {
+          "package_name": "doctor.book.appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165951998428-52tkltp8bb770ed1nthqmf4n7bjquhkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doctor.book.appointment",
+            "certificate_hash": "aa7967fd1038af6ac0c13059890795b2e55a7127"
+          }
+        },
+        {
+          "client_id": "165951998428-vcqvpt2ptih5ublapsiuhn4ovh1rn6hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwCVpAtg6A2xPviZUpvNBcqkvDqKZgJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165951998428-vcqvpt2ptih5ublapsiuhn4ovh1rn6hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165951998428:android:1207184b82db9e9be66719",
+        "android_client_info": {
+          "package_name": "doctor.book.appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165951998428-vcqvpt2ptih5ublapsiuhn4ovh1rn6hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwCVpAtg6A2xPviZUpvNBcqkvDqKZgJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165951998428-vcqvpt2ptih5ublapsiuhn4ovh1rn6hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
