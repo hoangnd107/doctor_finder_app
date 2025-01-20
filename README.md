@@ -1,16 +1,51 @@
-# videocalling
+# Doctor Finder
 
-A new Flutter project.
+A comprehensive Flutter-based medical appointment booking solution that connects patients with doctors through a feature-rich platform with real-time slot management.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+### Patients
 
-A few resources to get you started if this is your first Flutter project:
+- Search and book appointments with nearby doctors
+- Filter doctors by speciality
+- View detailed doctor profiles including ratings and reviews
+- Real-time time slot availability
+- Track upcoming and past appointments
+- Integrated video consultations
+- Multiple payment options (Cash, PayPal, Stripe)
+- Quick call/email to doctors
+- Multi-language support with RTL
+- Push notifications for appointment updates
+- Add reviews for doctors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Doctors
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dedicated doctor dashboard
+- Appointment management (Accept/Reject)
+- Custom time slot configuration
+- Profile management
+- Patient appointment history
+- Real-time notifications
+- Working hours management
+- 7-day scheduling flexibility
+
+## Technical Specifications
+
+- Platform: Flutter SDK >=3.2.3
+- Supported OS: iOS 14.0+, Android
+- UI Components: Material Design, Poppins font family, Table calendar, RTL support
+- Integrations: Camera and file picker, Payment gateways (Stripe, PayPal, Braintree), Maps integration, Push notifications, Video calling
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies:
+```bash
+flutter pub get
+```
+3. Configure payment gateways
+4. Set up notification services
+5. Run the app:
+```bash
+flutter run
+```
